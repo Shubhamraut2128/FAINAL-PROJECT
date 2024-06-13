@@ -1,0 +1,4 @@
+2024-06-13 07:36:33,340 - ERROR - Error loading YOLO: OpenCV(4.8.0) D:\a\opencv-python\opencv-python\opencv\modules\dnn\src\darknet\darknet_importer.cpp:210: error: (-212:Parsing error) Failed to open NetParameter file: yolov4.cfg in function 'cv::dnn::dnn4_v20230620::readNetFromDarknet'
+
+2024-06-13 07:45:25,244 - ERROR - Error loading YOLO: OpenCV(4.8.0) D:\a\opencv-python\opencv-python\opencv\modules\dnn\src\darknet\darknet_importer.cpp:210: error: (-212:Parsing error) Failed to open NetParameter file: yolov4.cfg in function 'cv::dnn::dnn4_v20230620::readNetFromDarknet'
+
